@@ -39,6 +39,7 @@
 * VUE.JS
 * LARAVEL
 * DOCKER
+
 ## Projetos Pessoais
 ### MeLeva "Conclusão de curso" 06/2019 - 06/2020
 * Projeto feito para conclusão do curso, com a ideia de facilitar o envio de mercadorias, com o objetivo de um motorista que vai fazer uma 
