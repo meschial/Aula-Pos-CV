@@ -29,3 +29,13 @@
 #### 12/2020 - 03/2021
 ### Curso Laravel Multi-Tenancy Multi Database 
 #### 02/2021 - 12/2021
+
+## Conhecimentos / Skills
+* HTML5
+* CSS3
+* PHP
+* SASS
+* GIT
+* VUE.JS
+* LARAVEL
+* DOCKER
