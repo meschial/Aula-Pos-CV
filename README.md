@@ -39,3 +39,12 @@
 * VUE.JS
 * LARAVEL
 * DOCKER
+## Projetos Pessoais
+### MeLeva "Conclusão de curso" 06/2019 - 06/2020
+* Projeto feito para conclusão do curso, com a ideia de facilitar o envio de mercadorias, com o objetivo de um motorista que vai fazer uma 
+viagem de Curitiba a São Paulo, ele pode realizar um cadastro ao site e procurar ou ser procurado por outra pessoa que precise enviar uma encomenda de Curitiba até São Paulo, assim o site faz a intermediação de valores e confirmação de entrega.
+
+##  Redes sociais
+* Instagram: instagram.com/_marcos_murilo_
+* LinkedIn: linkedin.com/in/marcos-murilo-meschial
+* GitHub: github.com/meschial
